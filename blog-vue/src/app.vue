@@ -14,9 +14,9 @@ export default {
 }
 </script>
 
-<style>
-#test{
-  color: red;
-  font-size: 56px;
-}
-</style>
+<style lang="stylus" scoped>
+#test
+  color red
+  text-align center
+  font-size 68px
+</style>>
